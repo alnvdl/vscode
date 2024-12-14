@@ -178,7 +178,7 @@
     "git.blame.statusBarItem.template": "${authorName} on ${authorDate}: ${subject}",
 
     "python.testing.unittestEnabled": true,
-    // "python.testing.pytestEnabled": true,
+    "python.testing.pytestEnabled": true,
     "python.terminal.activateEnvironment": false,
     "[python]": {
         "editor.rulers": [88],
