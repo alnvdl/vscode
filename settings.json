@@ -29,11 +29,11 @@
 
     "window.menuBarVisibility": "toggle",
     "extensions.autoUpdate": false,
+    "extensions.ignoreRecommendations": true,
     "telemetry.telemetryLevel": "off",
-    "workbench.enableExperiments": false,
     "window.commandCenter": true,
     "window.title": "${activeEditorMedium}",
-    "extensions.ignoreRecommendations": true,
+    "workbench.enableExperiments": false,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorTheme": "Monokai Dimmed",
     "workbench.colorCustomizations": {
@@ -181,7 +181,7 @@
     "python.testing.pytestEnabled": true,
     "python.terminal.activateEnvironment": false,
     "[python]": {
-        "editor.rulers": [88]
+        "editor.rulers": [88],
     },
     "black-formatter.args": [
         "--line-length=88"
@@ -223,4 +223,8 @@
     "markdown.preview.fontSize": 18,
     "markdown.preview.scrollEditorWithPreview": false,
     "markdown.preview.scrollPreviewWithEditor": false,
+
+    "github.copilot.enable": {
+        "markdown": true
+    },
 }

@@ -364,5 +364,13 @@
         "key": "ctrl+k shift+enter",
         "command": "-workbench.action.unpinEditor",
         "when": "activeEditorIsPinned"
+    },
+    {
+        "key": "ctrl+/",
+        "command": "workbench.action.toggleAuxiliaryBar"
+    },
+    {
+        "key": "ctrl+alt+b",
+        "command": "-workbench.action.toggleAuxiliaryBar"
     }
 ]
