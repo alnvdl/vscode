@@ -19,7 +19,7 @@
     },
     {
         "key": "ctrl+shift+m",
-        "command": "markdown.showPreviewToSide",
+        "command": "markdown.showPreviewToSide"
     },
     {
         "key": "alt+right",
@@ -184,7 +184,7 @@
     },
     {
         "key": "ctrl+1",
-        "command": "workbench.action.selectTheme",
+        "command": "workbench.action.selectTheme"
     },
     {
         "key": "ctrl+k ctrl+t",
@@ -247,16 +247,6 @@
         "key": "ctrl+shift+g",
         "command": "-workbench.view.scm",
         "when": "workbench.scm.active"
-    },
-    {
-        "key": "ctrl+shift+unknown",
-        "command": "workbench.view.debug",
-        "when": "viewContainer.workbench.view.debug.enabled"
-    },
-    {
-        "key": "ctrl+shift+d",
-        "command": "-workbench.view.debug",
-        "when": "viewContainer.workbench.view.debug.enabled"
     },
     {
         "key": "ctrl+shift+e",
@@ -345,7 +335,7 @@
     },
     {
         "key": "ctrl+shift+y",
-        "command": "workbench.action.experimental.quickTextSearch"
+        "command": "workbench.action.quickTextSearch"
     },
     {
         "key": "ctrl+k shift+enter",
@@ -358,7 +348,7 @@
     },
     {
         "key": "shift+pausebreak",
-        "command": "workbench.action.unpinEditor",
+        "command": "workbench.action.unpinEditor"
     },
     {
         "key": "ctrl+k shift+enter",
