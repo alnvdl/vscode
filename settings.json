@@ -116,6 +116,10 @@
         "strings": "off",
         "other": "off"
     },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "html.autoClosingTags": false,
+
     "editor.suggest.localityBonus": true,
     "editor.suggest.matchOnWordStartOnly": false,
     "editor.suggest.preview": true,
@@ -238,25 +242,9 @@
     "chat.tools.terminal.autoApprove": {
         "/.*/": false
     },
-    "github.copilot.enable": {
-        "*": false,
-        "markdown": true,
-        "go": true,
-        "python": true,
-        "html": true,
-        "css": true,
-        "javascript": true,
-        "javascriptreact": true,
-        "typescript": true,
-        "typescriptreact": true,
-        "dockerfile": true,
-        "makefile": true,
-        "sql": true,
-        "xml": true,
-        "yaml": true
-    },
-    "github.copilot.chat.agent.runTasks": false,
+
     "github.copilot.chat.useProjectTemplates": false,
+    "githubPullRequests.codingAgent.autoCommitAndPush": false,
     "github.copilot.chat.newWorkspaceCreation.enabled": false,
 
     "remote.autoForwardPorts": false,
