@@ -362,5 +362,13 @@
     {
         "key": "ctrl+alt+b",
         "command": "-workbench.action.toggleAuxiliaryBar"
+    },
+    {
+        "key": "insert",
+        "command": "-editor.action.toggleOvertypeInsertMode"
+    },
+    {
+        "key": "insert",
+        "command": "editor.action.inlineSuggest.trigger"
     }
 ]
