@@ -23,7 +23,6 @@
     // https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker
     // https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
     // https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-    // https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
     //
     // Review tools in Chat -> Agent mode -> Configure Tools...
     "window.titleBarStyle": "custom",
